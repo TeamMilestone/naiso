@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = '상품 상세 이미지 섹션 분할 도구'
   spec.description   = '긴 상세 이미지를 단색/그라데이션 배경 영역을 기준으로 자동 분할합니다.'
-  spec.homepage      = 'https://github.com/wonsup/naiso'
+  spec.homepage      = 'https://github.com/TeamMilestone/naiso'
   spec.license       = 'MIT'
   spec.required_ruby_version = '>= 2.7.0'
 
